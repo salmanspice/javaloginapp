@@ -30,6 +30,7 @@
 		    <artifactId>tomcat-jasper</artifactId>
 		    <version>9.0.31</version>
 		</dependency>
+	<!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
 		<dependency>
                     <groupId>org.sonarsource.scanner.maven</groupId>
                     <artifactId>sonar-maven-plugin</artifactId>
